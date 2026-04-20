@@ -1,7 +1,7 @@
 // Create input field
 let input = document.createElement("input");
 input.type = "number";
-input.placeholder = "Enter score (0–100)";
+input.placeholder = "Enter score (0-100)";
 
 // Create button
 let button = document.createElement("button");
